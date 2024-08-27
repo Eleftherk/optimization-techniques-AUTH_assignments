@@ -1,0 +1,1 @@
+This repository contains assignments completed as part of the "Optimization Techniques" course at the Aristotle University of Thessaloniki (AUTH) in the 7th semester. The course focuses on various optimization methods and techniques, providing both theoretical insights and practical implementation experience.
